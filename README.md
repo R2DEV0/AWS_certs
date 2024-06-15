@@ -1,5 +1,4 @@
-# AWS_certs
-AWS Certifications
+# AWS Certifications
 
 AWS Certified Developer – Associate
 Issued by Amazon Web Services Training and Certification
