@@ -16,7 +16,7 @@ that follow AWS best practices.
 Pantheon WebOps Certification
 Issued by Pantheon on 6/14/2024
 
-Certification Directory: https://certification.pantheon.io/home?title=&sort_by=field_date_value&sort_order=DESC
+Certification Directory: https://certification.pantheon.io/home?title=&sort_by=field_date_value&sort_order=DESC <br/>
 Link to my certification:
 
 ## HOW DEVELOPERS BENEFIT FROM BEING CERTIFIED
