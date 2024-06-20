@@ -17,7 +17,7 @@ Pantheon WebOps Certification
 Issued by Pantheon on 6/14/2024
 
 Certification Directory: https://certification.pantheon.io/home?title=&sort_by=field_date_value&sort_order=DESC <br/>
-Link to my certification:
+Link to my certification: https://www.credential.net/f602f457-d39b-4c42-9baa-1c2f840fe70d#gs.ajskwz
 
 ## HOW DEVELOPERS BENEFIT FROM BEING CERTIFIED
 **Proof of Competency** - A WebOps certification provides validation for developers’ technical proficiency on Pantheon, demonstrating expertise in key areas such as development workflows, cross-functional team collaboration, website optimization, and more.<br/>
