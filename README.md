@@ -39,4 +39,9 @@ Link to my certification: https://www.credential.net/f602f457-d39b-4c42-9baa-1c2
 
 # Website Speed Optimization + WordPress
 Issued by Udemy on 8/15/2023
+https://www.udemy.com/certificate/UC-54633a23-1306-485a-964b-8dee74d81a66/
+
+# WebXR, VR and AR using Three.JS
+Issued by Udemy 8/14/2023
+https://www.udemy.com/certificate/UC-3832b547-1dcc-48c4-bab8-daba471a7d4e/
 
