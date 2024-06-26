@@ -33,3 +33,10 @@ Link to my certification: https://www.credential.net/f602f457-d39b-4c42-9baa-1c2
 **Staying Cutting Edge** - A WebOps certification can ensure that projects ship with optimal website performance, security, and the best customer experiences possible, leveraging the latest best practices in website operations.<br/>
 **Attracting & Retaining** Talent - Offering a path to certification in WebOps can attract passionate developers and keep them satisfied in their roles by working in ways that maximize their time and impact.<br/>
 **Operational Excellence** - An investment in WebOps certification boosts the quality of a company’s digital experience, leading to better outcomes for lead generation, customer acquisition, and overall customer satisfaction.<br/>
+
+
+# Other Certifications
+
+# Website Speed Optimization + WordPress
+Issued by Udemy on 8/15/2023
+
